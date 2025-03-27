@@ -1,3 +1,18 @@
+:root {
+    --chocolate-kisses: #4B1E15;
+    --mauvelous: #E89E9E;
+    --caramel: #F6D6BC;
+    --royal-orange: #E29C45;
+    --bittersweet-shimmer: #CB513D;
+    --jacarta: #3A3458;
+    --queen-pink: #F3D8DD;
+    --middle-purple: #D58AB9;
+    --old-lavender: #7B5D78;
+    --brown-chocolate: #4B1E15;
+    --text-light: #fff;
+    --text-dark: #333;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 * {
